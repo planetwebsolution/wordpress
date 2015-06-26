@@ -1,0 +1,4 @@
+.srchfroms{ margin-bottom: 20px;margin-top: 20px;}
+form#refundform label { float: left; min-width: 115px; line-height: 25px; }
+form#refundform > div { margin-bottom: 7px; }
+form#refundform .sec1 .refundtype:nth-child(2) { margin-left: 10px; }
